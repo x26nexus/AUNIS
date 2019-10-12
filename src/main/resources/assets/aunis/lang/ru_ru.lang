@@ -1,0 +1,73 @@
+itemGroup.aunis=Aunis
+
+item.aunis.analyzer_ancient.name=Анализатор Древних
+item.aunis.crystal_control_dhd.name=Управляющий кристалл НУ
+item.aunis.dialer_fast.name=Быстрый набор (debug)
+
+item.aunis.crystal_glyph_dhd.name=Улучшение НУ
+item.aunis.crystal_glyph_stargate.name=Улучшение врат
+
+tile.aunis.naquadah_ore.name=Руда Наквадаха
+tile.aunis.naquadah_block.name=Блок Наквадаха
+item.aunis.naquadah_shard.name=Осколок Наквадаха
+item.aunis.naquadah_alloy.name=Слиток Наквадаха
+
+tile.aunis.invisible_block.name=Невидимый Блок
+
+tile.aunis.stargatebase_block.name=База Врат
+tile.aunis.stargate_member_block_ring.name=Кольцо
+tile.aunis.stargate_member_block_chevron.name=Шеврон
+tile.aunis.dhd_block.name=Наборное Устройство (НУ)
+
+tile.aunis.crystal_infuser_block.name=Кристальный Наполнитель
+
+item.aunis.crystal_fragment.name=Семя Кристалла
+item.aunis.crystal_blank.name=Пустой Кристалл
+item.aunis.crystal_blue.name=Телепортационный Кристалл
+item.aunis.crystal_red.name=Энергетический Кристалл
+item.aunis.crystal_ender.name=Кристалл Эндера
+item.aunis.crystal_yellow.name=Кристалл Света
+item.aunis.crystal_white.name=Белый Кристалл
+
+item.aunis.circuit_control_base.name=Схема Управления Базы
+item.aunis.circuit_control_naquadah.name=Схема Управления из Наквадаха
+item.aunis.circuit_control_crystal.name=Кристалная Схема Управления
+
+item.aunis.dhd_brb.name=Ярко красная кнопка(ЯКК)
+
+item.aunis.stargate_ring_fragment.name=Часть Кольца Врат
+item.aunis.holder_crystal.name=Кристиллодержатель
+
+item.aunis.page_notebook.name=Страница Записной Книжки
+item.aunis.page_mysterious.name=Мистическая Страница
+item.aunis.mysterious_page.tooltip=Кто знает куда она приведёт
+
+fluid.silicon_molten_black=Расплавленный Кремний
+fluid.silicon_molten_white=Очищенный Кремний
+fluid.silicon_molten_red=Энергетическая Сместь
+fluid.silicon_molten_blue=Телепортационная Смесь
+fluid.silicon_molten_ender=Эндер Смесь
+fluid.silicon_molten_yellow=Смесь Света
+fluid.naquadah_molten_raw=Жидкий Наквадах
+fluid.naquadah_molten_refined=Очищенный Наквадах
+fluid.naquadah_molten_alloy=Сплав Наквадаха
+
+
+
+tile.aunis.dhd_block.incoming_wormhole_warn=Невозможно закрыть врата с этой стороны
+tile.aunis.dhd_block.not_linked_warn=НУ не подключено к вратам
+tile.aunis.dhd_block.no_crystal_warn=У НУ нет управляющего кристалла
+tile.aunis.dhd_block.no_enough_power=Наборному устройству необходимо минимум 10,000uI чтобы работать правильно
+tile.aunis.dhd_block.computer_dial=Идёт компьютерный набор
+
+tile.aunis.stargatebase_block.not_enough_power=Недостаточно энергии
+
+item.aunis.transportrings_ring_fragment.name=Часть Транспортных Колец
+tile.aunis.transportrings_controller_block.name=Контроллер Транспортных Колец
+tile.aunis.transportrings_controller_block.not_linked=Контроллер не подключен
+
+tile.aunis.transportrings_block.name=Транспортные Кольцо
+tile.aunis.transportrings_block.non_existing_address=Невозможно телепортировать по этому адресу
+tile.aunis.transportrings_block.duplicate_address=Повторный адрес
+tile.aunis.transportrings_block.wrong_address=Неверный адрес, должен быть от 1 до 6
+tile.aunis.transportrings_block.obstructed=Кольцо заблокированы, очистите вокруг колец зону 7х7
